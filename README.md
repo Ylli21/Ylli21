@@ -4,9 +4,7 @@ I'm *Ylli*, Software Engineer with a love for clean code, creative design, and c
 
 ## 🚀 About Me
 
-- 🧠 Started coding at 16 with HTML & CSS — yes, I was that teen styling buttons for fun.
-- 💻 Today, I work with **Java**, **JavaScript**, and **Python**.
-- ☁️ Passionate about **Software Development**, **Cloud Computing**, and **Digital Design**.
+- ☁️ Passionate about **Software Development**, **Cloud Computing**
 - 🧩 I enjoy solving problems, breaking things (intentionally 👀), and learning something new every day.
 
 ## 🛠️ Currently
